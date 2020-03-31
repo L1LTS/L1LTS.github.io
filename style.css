@@ -18,7 +18,6 @@ li a {
   text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
 li a:hover {
   background-color: #FFC0CB;
 }
@@ -33,7 +32,6 @@ li a:hover {
   padding: 50px;
 }
 
-/* Clear floats after the columns */
 .row:after {
   content: "";
   display: table;
